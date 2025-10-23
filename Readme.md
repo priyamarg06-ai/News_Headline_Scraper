@@ -1,10 +1,3 @@
-Perfect 😊 here’s a student-friendly version of your README.md — short, simple, and natural for an internship submission 👇
-
-
----
-
-✅ README.md
-
 # Task 3 - News Headline Web Scraper
 
 This project is part of my Python Developer Internship.  
